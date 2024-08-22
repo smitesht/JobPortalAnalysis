@@ -4,7 +4,7 @@ We have a job portal dataset and have a task to perform data analytics using the
 
 ## Perform Basic Analysis
 
-### Highligh Missing Values
+### Highlight Missing Values
 
 ![alt text](./images/image.png)
 
@@ -12,7 +12,7 @@ We have a job portal dataset and have a task to perform data analytics using the
 
 ![alt text](./images/image-1.png)
 
-### List Top 10 companies with respect to job posting
+### List the Top 10 companies with respect to job posting
 
 ![alt text](./images/image-2.png)
 
